@@ -1,2 +1,4 @@
 this is a test for git
 hello, git
+add more file
+add more file2
